@@ -217,7 +217,7 @@
     <dependency>
       <groupId>com.ibm.icu</groupId>
       <artifactId>icu4j</artifactId>
-      <version>60.2</version>
+      <version>60.3</version>
     </dependency>
     <dependency>
       <groupId>com.beust</groupId>
